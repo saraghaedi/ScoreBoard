@@ -1,0 +1,16 @@
+.Scoreboard {
+  ul {
+    padding: 0;
+  }
+
+  button {
+    border: 1px solid black;
+    color: black;
+    padding: 0.8em;
+    margin: 3px;
+
+    &:hover {
+      background: #f20f0f;
+    }
+  }
+}
